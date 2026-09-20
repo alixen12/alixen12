@@ -103,9 +103,16 @@ A frontend-focused project recreating core Salesforce-style UI and application w
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alixen12&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+
+<a href="https://github.com/alixen12">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alixen12&theme=github-compact&hide_border=true&area=true"
+    width="95%"
+  />
+</a>
+
+</div>
 
 ---
 
