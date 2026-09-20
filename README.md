@@ -76,7 +76,7 @@ An interactive chatbot project exploring API integration and conversational inte
 
 A frontend-focused project recreating core Salesforce-style UI and application workflows.
 
-**Tech:** React • JavaScript • CSS
+**Tech:** HTML • CSS
 
 </td>
 </tr>
@@ -98,21 +98,6 @@ A frontend-focused project recreating core Salesforce-style UI and application w
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=alixen12&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/alixen12">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alixen12&theme=github-compact&hide_border=true&area=true"
-    width="95%"
-  />
-</a>
-
-</div>
 
 ---
 
