@@ -157,4 +157,4 @@ A frontend-focused project recreating core Salesforce-style UI and application w
 
 ---
 
-<p align="center">   <i>Building. Learning. Improving. 🚀</i> </p>ML
+<p align="center">   <i>Building. Learning. Improving</i> </p>
